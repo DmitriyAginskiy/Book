@@ -1,0 +1,22 @@
+Library{books=[Book{id=1, title='Book2', author=Author{name='Шарма', age=50, country='Швеция'}
+, publisher=Publisher{name='Экзамен', director='Лыфарь'}, publicationYear=1946, numberPages=834, cost=83.98227745240495778489275835454463958740234375, cover=HARD}
+, Book{id=2, title='Book3', author=Author{name='Толстой', age=33, country='Швейцария'}
+, publisher=Publisher{name='Рипол', director='Кузнецов'}, publicationYear=1969, numberPages=266, cost=68.23481721633930874304496683180332183837890625, cover=HARD}
+, Book{id=3, title='Book4', author=Author{name='Толстой', age=30, country='Беларусь'}
+, publisher=Publisher{name='Росмэн', director='Дагиль'}, publicationYear=2004, numberPages=879, cost=93.94823571967248199143796227872371673583984375, cover=HARD}
+, Book{id=4, title='Book5', author=Author{name='Роулинг', age=58, country='Швеция'}
+, publisher=Publisher{name='Азбука', director='Ванин'}, publicationYear=2016, numberPages=978, cost=1.69526066626133253834041170193813741207122802734375, cover=HARD}
+, Book{id=5, title='Book6', author=Author{name='Шарма', age=79, country='Швейцария'}
+, publisher=Publisher{name='Эксмо', director='Калюжная'}, publicationYear=1952, numberPages=396, cost=8.126425499640564709125101217068731784820556640625, cover=HARD}
+, Book{id=6, title='Book7', author=Author{name='Чехов', age=79, country='Швейцария'}
+, publisher=Publisher{name='Ювента', director='Горнич'}, publicationYear=1999, numberPages=919, cost=1.136301883335565587884730121004395186901092529296875, cover=HARD}
+, Book{id=7, title='Book8', author=Author{name='Масао', age=45, country='Швейцария'}
+, publisher=Publisher{name='Фламинго', director='Лыфарь'}, publicationYear=1958, numberPages=925, cost=66.59176843445317217629053629934787750244140625, cover=HARD}
+, Book{id=8, title='Book9', author=Author{name='Карнеги', age=25, country='Польша'}
+, publisher=Publisher{name='Рипол', director='Калюжная'}, publicationYear=2008, numberPages=972, cost=93.1544885486330400681254104711115360260009765625, cover=HARD}
+, Book{id=9, title='Book10', author=Author{name='Толстой', age=20, country='Швейцария'}
+, publisher=Publisher{name='Фламинго', director='Дагиль'}, publicationYear=1978, numberPages=301, cost=19.01456171006149276081487187184393405914306640625, cover=HARD}
+, Book{id=10, title='Book11', author=Author{name='Чехов', age=59, country='Польша'}
+, publisher=Publisher{name='Ювента', director='Кузнецов'}, publicationYear=2002, numberPages=373, cost=57.729492921984814302049926482141017913818359375, cover=HARD}
+]}
+
